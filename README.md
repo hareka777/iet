@@ -3,6 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/f8wtq0qh4k6620sl/branch/master?svg=true)](https://ci.appveyor.com/project/dotNetRDFadmin/dotnetrdf/branch/master)
 
 
+
 dotNetRDF is a powerful and flexible API for working with RDF and SPARQL in .NET environments.
 
 dotNetRDF is licensed under the MIT License, see the LICENSE.txt file in this repository
